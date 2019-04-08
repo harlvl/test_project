@@ -1,0 +1,4 @@
+/.vscode
+/build
+/project.egg-info
+*.pyc
